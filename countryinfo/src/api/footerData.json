@@ -1,0 +1,22 @@
+
+   [
+    {
+      "id": 1,
+      "icon": "FaMapMarkerAlt",
+      "name": "Location",
+      "information": "123 Main Street, Islamabad, Pakistan"
+    },
+    {
+      "id": 2,
+      "icon": "FaPhoneAlt",
+      "name": "Phone",
+      "information": "+92 300 1234567"
+    },
+    {
+      "id": 3,
+      "icon": "FaEnvelope",
+      "name": "Email",
+      "information": "info@example.com"
+    }
+  ]
+
